@@ -99,6 +99,9 @@ nav {
   display: block;
   text-align: left;
 }
+.dropdown:active .dropdown-content {
+  display: block;
+}
 .dropdown:hover .dropdown-content {
   display: block;
 }
